@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="EX4">
+		<CBX_INST_ENTRY INSTANCE_NAME="|EX4|RAM:inst4|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_h8u3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|EX4|divv:inst2|lpm_divide:LPM_DIVIDE_component" CBX_FILE_NAME="lpm_divide_60q.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
